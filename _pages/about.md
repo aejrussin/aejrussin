@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hey, I’m Aaron. I’m from Winnipeg.
+subtitle: Hey, I’m Aaron. I’m from Winnipeg. Contact me directly at [aejrussin@gmail.com](mailto:aejrussin@gmail.com).
 
 profile:
   align: right
@@ -19,8 +19,6 @@ social: true  # includes social icons at the bottom of the page
 I’m a Project and Program Manager with expertise in Agile software delivery & Lean methodology. I value transparency, humility, curiosity and rigour personally and professionally.
 
 When I’m not spending time with my partner and two young kids, I’m reading, playing, and designing tabletop role playing games. My first self-published game called [PEACEMAKER is shipping Summer 2023](https://www.kickstarter.com/projects/aaronrussin/peacemaker-rpg/).
-
-Contact me directly at [aejrussin@gmail.com](mailto:aejrussin@gmail.com).
 
 ---
 # Curriculum Vitae (CV)
