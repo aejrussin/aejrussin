@@ -5,7 +5,7 @@ permalink: /projects/
 description: a collection of personal projects
 nav: true
 nav_order: 2
-display_categories: [rpg]
+display_categories: [rpg, work, fun]
 horizontal: false
 ---
 
