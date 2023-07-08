@@ -36,15 +36,15 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         Print-on-demand at Drivethrurpg
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/available_at_drivethru.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         PDF available on itch.io
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/itch_badge.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         Download printable Playsheet
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
