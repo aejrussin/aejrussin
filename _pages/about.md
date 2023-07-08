@@ -22,11 +22,9 @@ I’m a Project and Program Manager with expertise in Agile software delivery & 
 
 When I’m not spending time with my partner and two young kids, I’m reading, playing, and designing tabletop role playing games. My first self-published game called [PEACEMAKER is shipping Summer 2023](https://www.kickstarter.com/projects/aaronrussin/peacemaker-rpg/).
 
-Contact me by email at aejrussin@gmail.com or find me on twitter or linkedin.
-
-## Curriculum Vitae (CV)
-
-### Work History
+# Curriculum Vitae (CV)
+---
+## Work History
 
 <dl>
 <dt>Priceline, 2022 ~ Present</dt>
@@ -37,7 +35,7 @@ Contact me by email at aejrussin@gmail.com or find me on twitter or linkedin.
 <dd>Operations Manager</dd>
 </dl>
 
-### Skills & Expertise
+## Skills & Expertise
 
 - Agile Practitioner
 - Business Analysis
@@ -47,7 +45,7 @@ Contact me by email at aejrussin@gmail.com or find me on twitter or linkedin.
 - Scrum Master
 - Technical Writing
 
-### Education
+## Education
 
 <dl>
 <dt>Sobey School of Business at Saint Mary's University, 2018 ~ 2021</dt>
@@ -56,13 +54,13 @@ Contact me by email at aejrussin@gmail.com or find me on twitter or linkedin.
 <dd>Bachelor of Arts Advanced, Philosophy Major</dd>
 </dl>
 
-### Certifications
+## Certifications
 
 - **Certified SAFe 5 Advanced Scrum Master** from Scaled Agile Inc. January 2023
 - **Certified SAFe 5 Scrum Master** from Scaled Agile Inc. November 2022
 - **Lean Greenbelt** from Canadian Manufacturers & Exporters, March 2018
 
-### Volunteer & Community Work
+## Volunteer & Community Work
 
 <dl>
 <dt>Purpose Construction, 2019 ~ Present</dt>
