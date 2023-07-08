@@ -18,6 +18,8 @@ category: rpg
     </div>
 </div>
 
+---
+
 ## Credits
 
 - Written and designed by Aaron Russin
@@ -27,7 +29,7 @@ category: rpg
 
 PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarter.com/projects/aaronrussin/peacemaker-rpg).
 
-## Purchase and Download
+## Links
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,5 +49,7 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 ## Changelog
 
 ```
-2023-07-07: PDF version created for Drivethrurpg.com and itch.io, Print-on-demand version created for Drivethrurpg.com.
+2023-07-07 v1.0
+- Release of PDF version for Drivethrurpg.com and itch.io
+- Release of Print-on-demand (POD) version for Drivethrurpg.com
 ```
