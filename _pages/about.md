@@ -25,7 +25,7 @@ To contact me, please send an email to [aejrussin@gmail.com](mailto:aejrussin@gm
 ---
 # Curriculum Vitae (CV)
 ---
-## Work History
+## Employment History
 
 <dl>
 <dt>Priceline, 2022 ~ Present</dt>
