@@ -104,7 +104,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  It's best to email me at aejrussin@gmail.com.
+  It's probably best to email me at aejrussin@gmail.com.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -121,8 +121,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: aejrussin # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+blog_description: a blog template
 permalink: /blog/:year/:title/
 
 # Pagination
