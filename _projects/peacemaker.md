@@ -29,6 +29,8 @@ category: rpg
 
 PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarter.com/projects/aaronrussin/peacemaker-rpg).
 
+---
+
 ## Links
 
 <div class="row">
@@ -45,6 +47,8 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+---
 
 ## Changelog
 
