@@ -15,10 +15,10 @@ Play to find out about each other, your feud, and how you were changed in the mo
 - Cover and Illustrations by Nicholas Trahan
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         PEACEMAKER is a quickdraw roleplaying game where we play characters in a wild west showdown: the final confrontation to settle our dispute. We open on the finale of our feud — but we’ll play to find out how we got to this moment of desperate revenge through flashbacks. Together, we’ll create scenes about threats to the people, places, and things that matter to us most. Whoever wins a scene gets to decide the truth in the story of our feud.
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PEACEMAKER-thumb200.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
