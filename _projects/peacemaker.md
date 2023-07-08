@@ -18,10 +18,16 @@ category: rpg
     </div>
 </div>
 
+## Credits
+
 - Written and designed by Aaron Russin
 - Edited by Jenn Martin
 - Layout by Dayna Kroeker
 - Cover and Illustrations by Nicholas Trahan
+
+PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarter.com/projects/aaronrussin/peacemaker-rpg).
+
+## Purchase and Download
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,4 +44,8 @@ category: rpg
     </div>
 </div>
 
-PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarter.com/projects/aaronrussin/peacemaker-rpg).
+## Changelog
+
+```
+2023-07-07: PDF version created for Drivethrurpg.com and itch.io, Print-on-demand version created for Drivethrurpg.com.
+```
