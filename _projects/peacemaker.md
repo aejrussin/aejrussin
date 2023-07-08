@@ -2,7 +2,7 @@
 layout: page
 title: PEACEMAKER
 description: a quickdraw western role playing game for two.
-img: assets/img/PEACEMAKER-thumb200.png
+img: assets/img/PEACEMAKER-thumb-banner.png
 importance: 1
 category: rpg
 ---
