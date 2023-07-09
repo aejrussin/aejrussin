@@ -10,7 +10,7 @@ category: rpg
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         <p>Dueling Scars is a fast, simple, single-page swordplay dice game for two players with 30 minutes. Evoking actual fencing tactical concepts, this game uses a d6 dice pool resolution system and a simplified version of position and effect from Forged in the Dark to drive daring strategic combat between two players.</p>
-        <p>This game was developed in April 2022 as a mechanical proof-of-concept and  I would love to hear about your experience playing it in the comments below.</p>
+        <p>This game is best played when printed on an A4 or 8.3 x 11.7 inches (210 x 297 mm)​ sheet of paper, with 8 ~ 12 physical d6 dice and two tokens. It was developed in April 2022 as a mechanical proof-of-concept, and  I would love to hear about your experience playing it in the comments below.</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Dueling_Scars_thumb.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
