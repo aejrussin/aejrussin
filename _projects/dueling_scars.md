@@ -22,7 +22,7 @@ category: rpg
 ## Credits
 
 - Written and designed by Aaron Russin
-- Cover art is Jean-Léon Gérôme _The Duel After the Masquerade_ and is Public Domain
+- Cover art by Jean-Léon Gérôme _The Duel After the Masquerade_ (1857) is Public Domain
 
 ---
 
