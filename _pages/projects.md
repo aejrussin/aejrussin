@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My main interest in designing RPGs is the same as running and playing them - I love to create and contribute to collaborative spaces that are intensely evocative but ephemeral while played, while being reliably repeatable yet surprising as systems and practices. This tension between what happens and what is possible in a game is what excites me most. I naturally gravitate toward story games and system frameworks, but lately I have been enamoured with the Old School Renaissance (OSR) style of adventure game and have been writing modules and settings. Here are some of the projects that I've been working on.
+description: Below are some of the games I've been working on. My main interest in designing RPGs is to develop systems and standardize practices that reliably reproduce evocative and collaborative yet ephemeral experiences that are surprising, intense and/or delightful. I naturally gravitate toward story games and system frameworks that are cooperative, but lately I have been enamoured with writing modules and setting material for the Old School Renaissance (OSR) style of adventure game. 
 nav: true
 nav_order: 2
 display_categories: [rpg, work, fun]
