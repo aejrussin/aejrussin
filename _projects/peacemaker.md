@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PEACEMAKER
-description: a quickdraw western role playing game for two, released July 2023
+description: a quickdraw western role playing game for two, releasing SUMMER 2023
 img: assets/img/PEACEMAKER-thumb200.png
 importance: 1
 category: rpg
