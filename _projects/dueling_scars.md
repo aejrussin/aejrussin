@@ -27,11 +27,10 @@ category: rpg
 ---
 
 ## Links
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         PDF available on itch.io
-        {% include figure.html path="assets/img/itch_badge.png" %}        
+        {% include figure.html path="assets/img/itch_badge.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
@@ -44,6 +43,10 @@ category: rpg
 ## Changelog
 
 ```
-2022-04-16 v1.0
-- Release of PDF version on Drivethrurpg.com and itch.io
+2022-07-16 v2.0
+- Updated initial step to replace coin toss with initiative wager. Expected result: reduces total Action dice to decrease first player's chance of maintaining initaitve; increases likelihood of initaitve changing in every game.
+- Release of PDF version on itch.io
+
+2022-04-09 v1.0
+- Published prototype to website.
 ```
