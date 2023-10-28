@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I’m a Project and Program Manager with expertise in Agile software delivery & Lean methodology. I value transparency, humility, curiosity and rigour personally and professionally. Please see my CV below.
 
-When I’m not spending time with my partner and two young kids, I’m reading, playing, and designing tabletop role playing games. See my [personal projects page](https://www.aaronrussin.com/projects/) for what I've been working on lately.
+When I’m not spending time with my two young kids, I’m reading, playing, and designing tabletop role playing games. See my [personal projects page](https://www.aaronrussin.com/projects/) for what I've been working on lately.
 
 To contact me, please send an email to [aejrussin@gmail.com](mailto:aejrussin@gmail.com).
 
