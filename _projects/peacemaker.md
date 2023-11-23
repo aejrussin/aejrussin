@@ -35,25 +35,24 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        Print-on-demand <a href="a">available at Drivethrurpg</a>
+        <a href="a">Purchase Print-on-demand</a>
         {% include figure.html path="assets/img/available_at_drivethru.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        PDF <a href="https://aaronrussin.itch.io/peacemaker">available for purchase on itch.io</a>
+        <a href="https://aaronrussin.itch.io/peacemaker">Purchase PDF version</a>
         {% include figure.html path="assets/img/itch_badge.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        Download <a href="assets/pdf/PEACEMAKER_202305_playsheet_img.png">the printable Playsheet for free</a>
-        {% include figure.html path="assets/img/PEACEMAKER_202305_playsheet_v1.pdf" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/PEACEMAKER_202305_playsheet_v1.pdf">Download printable Playsheet</a>
+        {% include figure.html path="assets/pdf/PEACEMAKER_202305_playsheet_img.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ---
 
-## Changelog
+## Project Changelog
 
 ```
-2023-07-07 v1.0
+2023-11-22 v1.0
 - Release of PDF version on Drivethrurpg.com and itch.io
-- Release of Print-on-demand (POD) version on Drivethrurpg.com
 ```
