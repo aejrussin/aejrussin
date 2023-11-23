@@ -35,7 +35,7 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="a">Purchase Print-on-demand</a>
+        Print-on-demand Coming Soon!
         {% include figure.html path="assets/img/available_at_drivethru.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -43,7 +43,7 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
         {% include figure.html path="assets/img/itch_badge.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="assets/pdf/PEACEMAKER_202305_playsheet_v1.pdf">Download printable Playsheet</a>
+        <a href="https://github.com/aejrussin/aejrussin/blob/master/assets/pdf/PEACEMAKER_202305_playsheet_v1.pdf">Download printable Playsheet</a>
         {% include figure.html path="assets/img/PEACEMAKER_202305_playsheet_img.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
