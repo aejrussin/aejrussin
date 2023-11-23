@@ -35,16 +35,16 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        Print-on-demand at Drivethrurpg
+        Print-on-demand <a href="a">available at Drivethrurpg</a>
         {% include figure.html path="assets/img/available_at_drivethru.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        PDF [available on itch.io](https://aaronrussin.itch.io/peacemaker)
+        PDF <a href="https://aaronrussin.itch.io/peacemaker">available for purchase on itch.io</a>
         {% include figure.html path="assets/img/itch_badge.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        Download printable Playsheet
-        {% include figure.html path="assets/img/PEACEMAKER_202305_playsheet_img.png" class="img-fluid rounded z-depth-1" %}
+        Download <a href="assets/pdf/PEACEMAKER_202305_playsheet_img.png">the printable Playsheet for free</a>
+        {% include figure.html path="assets/img/PEACEMAKER_202305_playsheet_v1.pdf" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
