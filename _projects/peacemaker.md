@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PEACEMAKER
-description: a quickdraw western role playing game for two, releasing SUMMER 2023
+description: a quickdraw western role playing game for two
 img: assets/img/PEACEMAKER-thumb200.png
 importance: 1
 category: rpg
@@ -54,5 +54,5 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 
 ```
 2023-11-22 v1.0
-- Release of PDF version on Drivethrurpg.com and itch.io
+- Release of "Print-on-Demand May 2023 Edition" PDF on Drivethrurpg.com and itch.io
 ```
