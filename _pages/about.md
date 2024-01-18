@@ -57,6 +57,7 @@ To contact me, please send an email to [aejrussin@gmail.com](mailto:aejrussin@gm
 
 ## Certifications
 
+- **Certified SAFe 6 Release Train Engineer** from Scaled Agile Inc. December 2023
 - **Certified SAFe 5 Advanced Scrum Master** from Scaled Agile Inc. January 2023
 - **Certified SAFe 5 Scrum Master** from Scaled Agile Inc. November 2022
 - **Lean Greenbelt** from Canadian Manufacturers & Exporters, March 2018
