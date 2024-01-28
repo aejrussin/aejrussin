@@ -41,10 +41,10 @@ To contact me, please send an email to [aejrussin@gmail.com](mailto:aejrussin@gm
 - Agile Practitioner
 - Business Analysis
 - Lean Practitioner
-- Project Management
-- Program Management
+- Project Manager
+- Program Manager
 - Scrum Master
-- Technical Writing
+- Technical Writer
 
 ## Education
 
