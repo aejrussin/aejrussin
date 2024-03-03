@@ -35,7 +35,7 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        Print-on-demand Coming Soon!
+        <a href="https://preview.drivethrurpg.com/en/product/439993/peacemaker-a-quickdraw-western-role-playing-game-for-two">Purchase Print-on-demand Edition</a>
         {% include figure.html path="assets/img/available_at_drivethru.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
