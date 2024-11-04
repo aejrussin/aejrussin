@@ -6,7 +6,7 @@ subtitle: Hey, I’m Aaron. I’m from Winnipeg.
 
 profile:
   align: right
-  image: aaronprofile22x400.png
+  image: aaronprofile24x200.png
   image_circular: true # crops the image to make it circular
   address: >
     <p></p>
