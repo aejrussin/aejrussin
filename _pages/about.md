@@ -64,7 +64,7 @@ To contact me, please send an email to [aejrussin@gmail.com](mailto:aejrussin@gm
 ## Volunteer & Community Work
 
 <dl>
-<dt>Purpose Construction, 2019 ~ Present</dt>
+<dt>Purpose Construction, 2019 ~ 2023</dt>
 <dd>Treasurer</dd>
 <dt>Peg City Car Co-op, 2017 ~ 2019</dt>
 <dd>Treasurer</dd>
