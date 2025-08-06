@@ -31,7 +31,13 @@ PEACEMAKER was made possible by [235 Kickstarter backers](https://www.kickstarte
 
 ---
 
-## Links
+## Discussion
+
+We’d love to hear from you! For any questions, comments, or thoughts about PEACEMAKER, please <a href="https://github.com/aejrussin/peacemaker-rpg/discussions">start a New Discussion thread or join an ongoing conversation</a>. Your experiences and feedback are extremely valuable - they help me understand how different players interpret the rules and engage with the game together.
+
+---
+
+## External Links
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
